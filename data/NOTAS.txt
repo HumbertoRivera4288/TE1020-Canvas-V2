@@ -1,0 +1,1 @@
+Los conjuntos de datos están integrados en js/app.js para facilitar la publicación estática inicial. Las fuentes y alcances están documentados en la sección final del sitio.
